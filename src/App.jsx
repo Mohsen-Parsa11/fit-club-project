@@ -4,7 +4,7 @@ import Footer from './components/Footer'
 import Hero from './components/Hero'
 import Plans from './components/Plans'
 import Testimonials from './components/Testimonials'
-import WhyUs from './components/whyUs'
+import WhyUs from './components/WhyUs'
 
 function App() {
 
